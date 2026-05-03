@@ -3,7 +3,7 @@
 A simple Expense Tracker application built with HTML, CSS, and JavaScript.  
 It allows users to add and delete income/expense values and keeps data saved using LocalStorage.
 
-<img width="1366" height="626" alt="image" src="https://github.com/user-attachments/assets/877346c7-b2b7-4357-ba42-42d6f55261ee" />
+<img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/5389a3e2-99ec-4663-b12f-908cc8a7e476" />
 
 ---
 
